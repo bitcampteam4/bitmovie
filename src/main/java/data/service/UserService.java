@@ -1,7 +1,7 @@
 package data.service;
 
-import data.domain.User;
-import data.repository.UserRepository;
+import data.domain.user.User;
+import data.repository.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestBody;

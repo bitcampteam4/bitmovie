@@ -1,6 +1,6 @@
 package data.service;
 
-import data.repository.PriceRepository;
+import data.repository.pay.PriceRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
 package data.service;
 
-import data.domain.Payment;
-import data.repository.PaymentRepository;
+import data.domain.pay.Payment;
+import data.repository.pay.PaymentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

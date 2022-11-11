@@ -1,7 +1,7 @@
 package data.service;
 
-import data.domain.ScreenTime;
-import data.repository.ScreenTimeRepository;
+import data.domain.movie.ScreenTime;
+import data.repository.movie.ScreenTimeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

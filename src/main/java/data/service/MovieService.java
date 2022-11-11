@@ -1,6 +1,6 @@
 package data.service;
 
-import data.repository.MovieRepository;
+import data.repository.movie.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
